@@ -1,4 +1,4 @@
-# Présentation WONKA — Gaspard Courrier
+# Présentation — Gaspard Courrier
 
 Présentation HTML autonome (30 slides, vidéos incluses). `index.html` est le point d'entrée.
 
